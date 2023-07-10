@@ -1,4 +1,6 @@
-## Android IT Kotlin Course - Kotlin Programming in JetBrains IntelliJ IDEA
+## Android IT Kotlin Course - Kotlin Programming in JetBrains IntelliJ IDEA </h2>
+  
+<img align="right" src="https://img.shields.io/github/last-commit/George-P-1/Android_IT_Kotlin_Course/main">
 
 <p align="center"> 
   <img align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-plain-wordmark.svg" width="200"/> 
